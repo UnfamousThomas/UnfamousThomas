@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 ----------------------------------------
 # About Me
-I am a 2nd year university bachelor student, studying Computer Science at the University of Tartu. In my free time, I often make hobby Java projects, and play videogames.
+I am a Computer Science university bachelor student at the University of Tartu. In my free time, I often make hobby Java projects, and play videogames.
 
 # Work
 I am currently AVAILABLE for work. Please contact me as needed.
 
 # Skills
-Here are some skills I am proficient in:
+Here are some skills I am proficient in, in no particular oder:
 [![Proficient Skills](https://skillicons.dev/icons?i=html,atom,azure,bash,discord,bots,docker,git,github,githubactions,gitlab,gradle,idea,java,jenkins,kubernetes,linkedin,mysql,mongodb,maven,postgres,py,redis,stackoverflow)](https://skillicons.dev)
 
-And here are some skills, I have played with but am not fully proficient:
+And here are some skills, I have played with but am not good at (yet):
 [![New Skils](https://skillicons.dev/icons?i=js,css,aws,cpp,cloudflare,cmake,flutter,gcp,grafana,heroku,kotlin,lua,nodejs,openstack,postgres,planetscale,powershell,prometheus)](https://skillicons.dev)
