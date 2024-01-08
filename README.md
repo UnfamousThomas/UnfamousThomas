@@ -23,7 +23,7 @@ I am currently AVAILABLE for work. Please contact me as needed.
 
 # Skills
 Here are some skills I am proficient in, in no particular oder:
-[![Proficient Skills](https://skillicons.dev/icons?i=html,atom,azure,bash,discord,bots,docker,git,github,githubactions,gitlab,gradle,idea,java,jenkins,kubernetes,linkedin,mysql,mongodb,maven,postgres,py,redis,stackoverflow)](https://skillicons.dev)
+[![Proficient Skills](https://skillicons.dev/icons?i=html,,bash,discord,bots,docker,git,github,githubactions,gitlab,gradle,idea,java,jenkins,kubernetes,mysql,mongodb,maven,postgres,py,redis)](https://skillicons.dev)
 
 And here are some skills, I have played with but am not good at (yet):
-[![New Skils](https://skillicons.dev/icons?i=js,css,aws,cpp,cloudflare,cmake,flutter,gcp,grafana,heroku,kotlin,lua,nodejs,openstack,postgres,planetscale,powershell,prometheus)](https://skillicons.dev)
+[![New Skils](https://skillicons.dev/icons?i=js,css,aws,cpp,cloudflare,cmake,gcp,grafana,heroku,kotlin,lua,nodejs,openstack,planetscale,powershell,prometheus)](https://skillicons.dev)
