@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I am a Computer Science university bachelor student at the University of Tartu. In my free time, I often make hobby Java projects, and play videogames.
 
 # Work
-I am currently AVAILABLE for work. Please contact me as needed.
+I am currently UNAVAILABLE for work.
 
 # Skills
 Here are some skills I am proficient in, in no particular oder:
