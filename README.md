@@ -6,8 +6,8 @@ I am a 3rd year university bachelor student in Computer Science at the Universit
 # Skills
 skills I am proficient in, in no particular oder:
 
-[![Proficient Skills](https://skillicons.dev/icons?i=html,bash,discord,bots,docker,git,github,githubactions,gitlab,gradle,idea,java,jenkins,kubernetes,mysql,mongodb,maven,postgres,redis)](https://skillicons.dev)
+[![Proficient Skills](https://skillicons.dev/icons?i=html,bash,discord,bots,docker,git,github,githubactions,gitlab,gradle,idea,java,kubernetes,mysql,mongodb,maven,postgres,redis)](https://skillicons.dev)
 
 Skills I have limited experience in:
 
-[![New Skils](https://skillicons.dev/icons?i=js,css,aws,cpp,cloudflare,grafana,nodejs,planetscale,powershell,prometheus)](https://skillicons.dev)
+[![New Skils](https://skillicons.dev/icons?i=js,css,aws,cpp,cloudflare,grafana,nodejs,planetscale,powershell,prometheus,jenkins)](https://skillicons.dev)
